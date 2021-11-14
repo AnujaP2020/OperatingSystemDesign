@@ -1,2 +1,3 @@
 # OperatingSystemDesign
-Operating system assignments CS421 and CS621
+
+Added Operating system assignments CS421(operating system) and CS621(operating system design).
